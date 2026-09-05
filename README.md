@@ -2,7 +2,7 @@
 
 <h1>👋 Hey, I'm Leo!</h1>
 
-I'm a Computer Networks student, building my skills across networking, programming, Linux systems, hardware and cybersecurity.
+I'm a Computer Networks student, building my skills across networking, programming, Linux systems and cybersecurity.
 
 💻 IT Student · 🌐 Networking · 🔐 Cybersecurity · 🐍 Python · 🐧 Linux
 
