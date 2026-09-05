@@ -3,9 +3,9 @@
 
 👋 Hi, I'm Leonardo
 
-💻 IT student interested in **software development, networking, and technology**.
+💻 IT student interested in **software development, networking, and technology.
 
-🌐 Interested in **computer networks, infrastructure, and cybersecurity**.
+🌐 Interested in **computer networks, infrastructure, and cybersecurity.
 
 ---
 
