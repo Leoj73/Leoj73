@@ -24,8 +24,6 @@ I'm a Computer Networks student, building my skills across networking, programmi
 
 <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP%2FIP-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IPv4%2FIPv6-0078D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Linux_Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <br>
@@ -45,11 +43,11 @@ Coming soon...
 
 📫 Connect
 
-<a href="https://github.com/">
+<a href="">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
