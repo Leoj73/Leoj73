@@ -1,8 +1,7 @@
-## Hi there 👋
 <!--
 **Leoj73/Leoj73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 👋 Hi, I'm Leonardo
+👋 Hi, I'm Leonardo
 
 💻 IT student interested in **software development, networking, and technology**.
 
@@ -10,7 +9,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
 * 🐍 Python
 * 🌐 Computer Networking
@@ -20,7 +19,7 @@
 
 ---
 
-## 📚 Currently Learning
+ 📚 Currently Learning
 
 * Python programming
 * Data structures
@@ -30,15 +29,15 @@
 
 ---
 
-## 🚀 Projects
+🚀 Projects
 
-###
+
 
 More coming soon...
 
 ---
 
-## 📈 Goals
+ 📈 Goals
 
 * Build real-world projects
 * Improve my programming skills
@@ -46,7 +45,6 @@ More coming soon...
 * Contribute to open-source projects
 
 ---
-
-## 📫 Contact
+ 📫 Contact
 
 Feel free to explore my repositories and follow my progress!
