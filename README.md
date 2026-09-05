@@ -6,8 +6,6 @@ I'm a Computer Networks student, building my skills across networking, programmi
 
 I enjoy learning by doing — building scripts, configuring systems, simulating networks, and exploring how technology works under the hood.
 
----
-
 🧑‍💻 About Me
 
 <p align="left">
@@ -17,8 +15,6 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   🐧 Linux & Systems<br>
   🔧 Computer Hardware<br>
 </p>
-
----
 
 ⚡ Skills & Technologies
 
@@ -38,7 +34,6 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   <img src="https://img.shields.io/badge/IPv4-0F1419?style=for-the-badge&logoColor=00C853" />
   <img src="https://img.shields.io/badge/IPv6-0F1419?style=for-the-badge&logoColor=00C853" />
   <img src="https://img.shields.io/badge/Subnetting-0F1419?style=for-the-badge&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0F1419?style=for-the-badge&logo=cisco&logoColor=00C853" />
 </p>
 
 🐧 Systems
@@ -72,9 +67,5 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   <img src="https://img.shields.io/badge/GitHub-0F1419?style=for-the-badge&logo=github&logoColor=00C853" />
 </p>
 
----
-
 📫 Connect With Me
 <p> <a href="mailto:nardojose2013@gmail.com"> <img src="https://img.shields.io/badge/Email-0F1419?style=for-the-badge&logo=gmail&logoColor=00C853" /> </a> <a href="https://github.com/Leoj73"> <img src="https://img.shields.io/badge/GitHub-0F1419?style=for-the-badge&logo=github&logoColor=00C853" /> </a> </p>
-
-
