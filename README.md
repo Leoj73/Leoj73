@@ -35,13 +35,13 @@ I'm a Computer Networks student, building my skills across networking, programmi
 <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/PC_Hardware-555555?style=for-the-badge" />
 
-<br>
+<br><br>
 
 🚀 Projects
 
 Coming soon...
 
-<br>
+<br><br>
 
 📫 Connect
 
