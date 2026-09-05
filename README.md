@@ -74,4 +74,7 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
 
 ---
 
+📫 Connect With Me
+<p> <a href="mailto:nardojose2013@gmail.com"> <img src="https://img.shields.io/badge/Email-0F1419?style=for-the-badge&logo=gmail&logoColor=00C853" /> </a> <a href="https://github.com/Leoj73"> <img src="https://img.shields.io/badge/GitHub-0F1419?style=for-the-badge&logo=github&logoColor=00C853" /> </a> </p>
+
 
