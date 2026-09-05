@@ -59,7 +59,7 @@ I'm a Computer Networks student, building my skills across networking, programmi
   <img src="https://img.shields.io/badge/Hardware-059669?style=for-the-badge&logoColor=FFFFFF" height="40"/>
 </p>
 
-### 🛠️ Tools
+🛠️ Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" height="40"/>
