@@ -22,23 +22,15 @@ I'm a Computer Networks student, building my skills across networking, programmi
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows" />
 
 <br>
-
-🌐 Networking & Cybersecurity
-
-<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Windows_Networking-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-
 <br>
 
 🚀 Projects
 
-<br><br>
+<br>
 
 Coming soon...
 
-<br><br>
+<br>
 
 📫 Connect
 
