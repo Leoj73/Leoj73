@@ -18,7 +18,7 @@
  📚 Currently Learning
 * Networking
 * Git & GitHub
-* 
+  
 ---
 
 🚀 Projects
