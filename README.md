@@ -1,8 +1,8 @@
 👋 Hi, I'm Leonardo
 
-💻 IT student interested in **software development, networking, and technology.
+💻 IT student interested in software development, networking, and technology.
 
-🌐 Interested in **computer networks, infrastructure, and cybersecurity.
+🌐 Interested in computer networks, infrastructure, and cybersecurity.
 
 ---
 
@@ -11,24 +11,17 @@
 * 🐍 Python
 * 🌐 Computer Networking
 * 🐙 Git & GitHub
-*
 * 💻 Linux
 
 ---
 
  📚 Currently Learning
-
-* Python programming
-* Data structures
 * Networking
 * Git & GitHub
-* Software development
-
+* 
 ---
 
 🚀 Projects
-
-
 
 More coming soon...
 
@@ -43,5 +36,4 @@ More coming soon...
 
 ---
  📫 Contact
-
-Feel free to explore my repositories and follow my progress!
+ 
