@@ -16,18 +16,18 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   🔧 Computer Hardware<br>
 </p>
 
-⚡ Skills & Technologies
+## ⚡ Skills & Technologies
 
-🐍 Programming
+### 🐍 Programming
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFFFFF" height="40"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" height="40"/>
   <img src="https://img.shields.io/badge/C-065F46?style=for-the-badge&logo=c&logoColor=FFFFFF" height="40"/>
   <img src="https://img.shields.io/badge/C%2B%2B-047857?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="40"/>
   <img src="https://img.shields.io/badge/Java-166534?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" height="40"/>
 </p>
 
-🌐 Networking
+### 🌐 Networking
 
 <p align="left">
   <img src="https://img.shields.io/badge/TCP%2FIP-065F46?style=for-the-badge&logoColor=FFFFFF" height="40"/>
@@ -37,7 +37,7 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-064E3B?style=for-the-badge&logo=cisco&logoColor=FFFFFF" height="40"/>
 </p>
 
-🐧 Systems
+### 🐧 Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-166534?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="40"/>
@@ -45,7 +45,7 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   <img src="https://img.shields.io/badge/VirtualBox-047857?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF" height="40"/>
 </p>
 
-🌐 Web
+### 🌐 Web
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" height="40"/>
@@ -54,20 +54,16 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF" height="40"/>
 </p>
 
-🔧 Hardware
+### 🔧 Hardware
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FFFFFF" height="40"/>
   <img src="https://img.shields.io/badge/Hardware-059669?style=for-the-badge&logoColor=FFFFFF" height="40"/>
 </p>
 
-🛠️ Tools
+### 🛠️ Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" height="40"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" height="40"/>
 </p>
-
-
-📫 Connect With Me
-<p> <a href="mailto:nardojose2013@gmail.com"> <img src="https://img.shields.io/badge/Email-0F1419?style=for-the-badge&logo=gmail&logoColor=00C853" /> </a> <a href="https://github.com/Leoj73"> <img src="https://img.shields.io/badge/GitHub-0F1419?style=for-the-badge&logo=github&logoColor=00C853" /> </a> </p>
