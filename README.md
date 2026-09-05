@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hey, I'm Leo</h1>
+<h1>👋 Hey, I'm Leo!</h1>
 
 I'm a Computer Networks student, building my skills across networking, programming, Linux systems, hardware and cybersecurity.
 
