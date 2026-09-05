@@ -21,7 +21,7 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
 🐍 Programming
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" height="40"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFFFFF" height="40"/>
   <img src="https://img.shields.io/badge/C-065F46?style=for-the-badge&logo=c&logoColor=FFFFFF" height="40"/>
   <img src="https://img.shields.io/badge/C%2B%2B-047857?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="40"/>
   <img src="https://img.shields.io/badge/Java-166534?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" height="40"/>
