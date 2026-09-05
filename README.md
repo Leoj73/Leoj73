@@ -1,67 +1,101 @@
-👋 Hey, I'm Leo.
+<div align="center">
 
-💻 IT Student | 🌐 Networking | 🐍 Python | 🐧 Linux
+# 👋 Hey, I'm Leo
 
-I'm a Computer Networks student, building my skills across networking, programming, Linux systems, hardware, and web development.
+I'm a Computer Networks student, building my skills across networking, programming, Linux systems, hardware, cybersecurity, and web development.
 
-🧑‍💻 About Me
+💻 IT Student · 🌐 Networking · 🔐 Cybersecurity · 🐍 Python · 🐧 Linux
 
-<p align="left">
-  🎓 Computer Networks Technician<br>
-  🌐 Networking & Infrastructure<br>
-  🐍 Python & Programming<br>
-  🐧 Linux & Systems<br>
-  🔧 Computer Hardware<br>
-</p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
-⚡ Skills & Technologies
+<br><br>
 
-🐍 Programming
+## 💻 Languages & Systems
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" height="40"/>
-  <img src="https://img.shields.io/badge/C-065F46?style=for-the-badge&logo=c&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-047857?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/Java-166534?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" height="40"/>
-</p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-🌐 Networking
+<br><br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TCP%2FIP-065F46?style=for-the-badge&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/IPv4-047857?style=for-the-badge&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/IPv6-059669?style=for-the-badge&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/Subnetting-10B981?style=for-the-badge&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-064E3B?style=for-the-badge&logo=cisco&logoColor=FFFFFF" height="40"/>
-</p>
+## 🌐 Networking & Cybersecurity
 
-🐧 Systems
+<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/TCP%2FIP-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IPv4%2FIPv6-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux_Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-166534?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/Windows-15803D?style=for-the-badge&logo=windows&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/VirtualBox-047857?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF" height="40"/>
-</p>
+<br><br>
 
-🌐 Web
+## 🖥️ Systems & Hardware
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF" height="40"/>
-</p>
+<img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/PC_Hardware-555555?style=for-the-badge&logo=pcgamingwiki&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
-🔧 Hardware
+<br><br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/Hardware-059669?style=for-the-badge&logoColor=FFFFFF" height="40"/>
-</p>
+## 🚀 Projects
 
-🛠️ Tools
+### 🌐 Networking
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" height="40"/>
-</p>
+Hands-on networking projects, labs, and experiments focused on network configuration, protocols, addressing, and troubleshooting.
+
+### 🐧 Linux
+
+Shell scripts, system experiments, configuration, automation, and Linux administration.
+
+### 🐍 Python
+
+Small tools, automation scripts, programming exercises, and networking-related projects.
+
+### 🔐 Cybersecurity
+
+Learning through controlled labs and experiments involving Linux, networking, system security, and cybersecurity fundamentals.
+
+### 🔧 Hardware
+
+Experiments with PC hardware, electronics, Arduino, and computer systems.
+
+<br><br>
+
+## 📚 Currently Learning
+
+🌐 Advanced Networking
+🐧 Linux Administration
+🔐 Cybersecurity
+🐍 Python
+⚙️ C / C++
+💻 Systems & Hardware
+
+<br><br>
+
+## 🎯 Interests
+
+🌐 Computer Networks
+🐧 Linux & Open Source
+🔐 Cybersecurity
+💻 Systems Programming
+🔧 Computer Hardware
+🤖 Electronics & Automation
+🌎 Web Technologies
+
+<br><br>
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+</div>
