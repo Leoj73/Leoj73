@@ -2,7 +2,7 @@
 
 💻 IT Student | 🌐 Networking | 🐍 Python | 🐧 Linux
 
-I'm a **Computer Networks student, building my skills across networking, programming, Linux systems, hardware, and web development.
+I'm a Computer Networks student, building my skills across networking, programming, Linux systems, hardware, and web development.
 
 I enjoy learning by doing — building scripts, configuring systems, simulating networks, and exploring how technology works under the hood.
 
@@ -41,7 +41,7 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0F1419?style=for-the-badge&logo=cisco&logoColor=00C853" />
 </p>
 
-### 🐧 Systems
+🐧 Systems
 
 <p>
   <img src="https://img.shields.io/badge/Linux-0F1419?style=for-the-badge&logo=linux&logoColor=00C853" />
@@ -58,7 +58,7 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
   <img src="https://img.shields.io/badge/jQuery-0F1419?style=for-the-badge&logo=jquery&logoColor=00C853" />
 </p>
 
-### 🔧 Hardware & Electronics
+🔧 Hardware & Electronics
 
 <p>
   <img src="https://img.shields.io/badge/Arduino-0F1419?style=for-the-badge&logo=arduino&logoColor=00C853" />
@@ -70,26 +70,8 @@ I enjoy learning by doing — building scripts, configuring systems, simulating 
 <p>
   <img src="https://img.shields.io/badge/Git-0F1419?style=for-the-badge&logo=git&logoColor=00C853" />
   <img src="https://img.shields.io/badge/GitHub-0F1419?style=for-the-badge&logo=github&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Office-0F1419?style=for-the-badge&logo=microsoftoffice&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/LibreOffice-0F1419?style=for-the-badge&logo=libreoffice&logoColor=00C853" />
 </p>
 
 ---
 
-🌐 Networking
 
-text
-┌──────────────────────────────────────────────┐
-│                 NETWORKING                   │
-├──────────────────────────────────────────────┤
-│                                              │
-│   TCP/IP Fundamentals                        │
-│   IPv4 & IPv6 Addressing                     │
-│   Subnetting                                 │
-│   IP Configuration                           │
-│   Network Topologies                         │
-│   Device Configuration                       │
-│   Connectivity Testing                       │
-│                        │
-│                                              │
-└──────────────────────────────────────────────┘
