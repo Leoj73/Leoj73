@@ -1,4 +1,4 @@
-👋 Hey, I'm Leo
+👋 Hey, I'm Leo.
 
 💻 IT Student | 🌐 Networking | 🐍 Python | 🐧 Linux
 
