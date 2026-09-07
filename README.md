@@ -27,7 +27,8 @@ I'm a Computer Networks student, building my skills across networking, programmi
 
 <a href="https://www.linkedin.com/in/leonardo-jos%C3%A9-b26778430/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="[https://www.linkedin.com/in/leonardo-jos%C3%A9-b26778430/](https://my-portfolio-sigma-beryl-98.vercel.app/)">
+
+<a href="https://my-portfolio-sigma-beryl-98.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white" />
 </a>
 
