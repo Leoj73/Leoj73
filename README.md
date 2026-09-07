@@ -23,14 +23,6 @@ I'm a Computer Networks student, building my skills across networking, programmi
 <br>
 <br>
 
-🚀 Projects
-
-<br>
-
-Coming soon...
-
-<br>
-
 📫 Connect
 
 <a href="https://www.linkedin.com/in/leonardo-jos%C3%A9-b26778430/">
