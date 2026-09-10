@@ -14,47 +14,72 @@
     .cursor { fill: #39FF14; }
   </style>
 
-  <!-- LEOJ ASCII -->
-  <g class="mono ascii">
-    <text x="35" y="52">██╗     ███████╗ ██████╗      ██╗</text>
-    <text x="35" y="76">██║     ██╔════╝██╔═══██╗     ██║</text>
-    <text x="35" y="100">██║     █████╗  ██║   ██║     ██║</text>
-    <text x="35" y="124">██║     ██╔══╝  ██║   ██║██   ██║</text>
-    <text x="35" y="148">███████╗███████╗╚██████╔╝╚█████╔╝</text>
-    <text x="35" y="172">╚══════╝╚══════╝ ╚═════╝  ╚════╝</text>
+  <!-- LEOJ ASCII: letters positioned independently so spacing cannot break the J -->
+  <g class="mono ascii" xml:space="preserve">
+    <!-- L -->
+    <text x="35" y="44">██╗</text>
+    <text x="35" y="68">██║</text>
+    <text x="35" y="92">██║</text>
+    <text x="35" y="116">██║</text>
+    <text x="35" y="140">███████╗</text>
+    <text x="35" y="164">╚══════╝</text>
+
+    <!-- E -->
+    <text x="175" y="44">███████╗</text>
+    <text x="175" y="68">██╔════╝</text>
+    <text x="175" y="92">█████╗</text>
+    <text x="175" y="116">██╔══╝</text>
+    <text x="175" y="140">███████╗</text>
+    <text x="175" y="164">╚══════╝</text>
+
+    <!-- O -->
+    <text x="320" y="44"> ██████╗ </text>
+    <text x="320" y="68">██╔═══██╗</text>
+    <text x="320" y="92">██║   ██║</text>
+    <text x="320" y="116">██║   ██║</text>
+    <text x="320" y="140">╚██████╔╝</text>
+    <text x="320" y="164"> ╚═════╝ </text>
+
+    <!-- J -->
+    <text x="485" y="44">     ██╗</text>
+    <text x="485" y="68">     ██║</text>
+    <text x="485" y="92">     ██║</text>
+    <text x="485" y="116">██   ██║</text>
+    <text x="485" y="140">╚█████╔╝</text>
+    <text x="485" y="164"> ╚════╝ </text>
   </g>
 
   <!-- Neofetch info -->
   <g class="mono">
-    <text x="570" y="48" class="title">Leoj73@github</text>
-    <text x="570" y="72" class="dim">-------------</text>
+    <text x="650" y="48" class="title">Leoj73@github</text>
+    <text x="650" y="72" class="dim">-------------</text>
 
-    <text x="570" y="102" class="label">Name:</text>
-    <text x="700" y="102" class="value">Leonardo José</text>
+    <text x="650" y="102" class="label">Name:</text>
+    <text x="780" y="102" class="value">Leonardo José</text>
 
-    <text x="570" y="128" class="label">Role:</text>
-    <text x="700" y="128" class="value">Computer Networks Student</text>
+    <text x="650" y="128" class="label">Role:</text>
+    <text x="780" y="128" class="value">Computer Networks Student</text>
 
-    <text x="570" y="154" class="label">OS:</text>
-    <text x="700" y="154" class="value">Linux / Windows</text>
+    <text x="650" y="154" class="label">OS:</text>
+    <text x="780" y="154" class="value">Linux / Windows</text>
 
-    <text x="570" y="180" class="label">Focus:</text>
-    <text x="700" y="180" class="value">Networking &amp; Cybersecurity</text>
+    <text x="650" y="180" class="label">Focus:</text>
+    <text x="780" y="180" class="value">Networking &amp; Cybersecurity</text>
 
-    <text x="570" y="206" class="label">Languages:</text>
-    <text x="700" y="206" class="value">Python, C, C++, Java</text>
+    <text x="650" y="206" class="label">Languages:</text>
+    <text x="780" y="206" class="value">Python, C, C++, Java</text>
 
-    <text x="570" y="232" class="label">Web:</text>
-    <text x="700" y="232" class="value">JavaScript, HTML, CSS</text>
+    <text x="650" y="232" class="label">Web:</text>
+    <text x="780" y="232" class="value">JavaScript, HTML, CSS</text>
 
-    <text x="570" y="258" class="label">Shell:</text>
-    <text x="700" y="258" class="value">Linux</text>
+    <text x="650" y="258" class="label">Shell:</text>
+    <text x="780" y="258" class="value">Linux</text>
 
-    <text x="570" y="284" class="label">Learning:</text>
-    <text x="700" y="284" class="value">Networks &amp; Security</text>
+    <text x="650" y="284" class="label">Learning:</text>
+    <text x="780" y="284" class="value">Networks &amp; Security</text>
 
-    <text x="570" y="310" class="label">Languages:</text>
-    <text x="700" y="310" class="value">Portuguese / English</text>
+    <text x="650" y="310" class="label">Languages:</text>
+    <text x="780" y="310" class="value">Portuguese / English</text>
   </g>
 
   <!-- English terminal -->
