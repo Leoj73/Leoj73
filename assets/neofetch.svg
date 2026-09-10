@@ -2,17 +2,58 @@
   <rect width="100%" height="100%" rx="16" fill="#0d1117"/>
 
   <style>
-    .mono { font-family: "Courier New", "DejaVu Sans Mono", monospace; }
-    .ascii { fill: #9BAA5A; font-size: 17px; font-weight: 700; }
-    .title { fill: #B5BD68; font-size: 18px; font-weight: 700; }
-    .label { fill: #9BAA5A; font-size: 16px; font-weight: 700; }
-    .value { fill: #C5C8A8; font-size: 16px; }
-    .prompt { fill: #9BAA5A; font-size: 16px; font-weight: 700; }
-    .cmd { fill: #c9d1d9; font-size: 16px; }
-    .body { fill: #C5C8A8; font-size: 16px; }
-    .dim { fill: #7F8752; font-size: 16px; }
-    .cursor { fill: #9BAA5A; }
-  </style>
+  .mono {
+    font-family: "Courier New", "DejaVu Sans Mono", monospace;
+  }
+
+  .ascii {
+    fill: #9BAA5A;
+    font-size: 17px;
+    font-weight: 700;
+  }
+
+  .title {
+    fill: #B5BD68;
+    font-size: 23px;
+    font-weight: 700;
+  }
+
+  .label {
+    fill: #9BAA5A;
+    font-size: 19px;
+    font-weight: 700;
+  }
+
+  .value {
+    fill: #C5C8A8;
+    font-size: 19px;
+  }
+
+  .prompt {
+    fill: #9BAA5A;
+    font-size: 19px;
+    font-weight: 700;
+  }
+
+  .cmd {
+    fill: #c9d1d9;
+    font-size: 19px;
+  }
+
+  .body {
+    fill: #C5C8A8;
+    font-size: 19px;
+  }
+
+  .dim {
+    fill: #7F8752;
+    font-size: 19px;
+  }
+
+  .cursor {
+    fill: #9BAA5A;
+  }
+</style>
 
   <g class="mono ascii" xml:space="preserve">
 
