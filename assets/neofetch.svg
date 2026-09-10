@@ -5,12 +5,12 @@
     .mono { font-family: "Courier New", "DejaVu Sans Mono", monospace; }
     .ascii { fill: #9BAA5A; font-size: 17px; font-weight: 700; }
     .title { fill: #B5BD68; font-size: 18px; font-weight: 700; }
-    .label { fill: #9BAA5A; font-size: 20px; font-weight: 700; }
-    .value { fill: #C5C8A8; font-size: 20px; }
-    .prompt { fill: #9BAA5A; font-size: 20px; font-weight: 700; }
-    .cmd { fill: #c9d1d9; font-size: 20px; }
-    .body { fill: #C5C8A8; font-size: 20px; }
-    .dim { fill: #7F8752; font-size: 20px; }
+    .label { fill: #9BAA5A; font-size: 30px; font-weight: 700; }
+    .value { fill: #C5C8A8; font-size: 30px; }
+    .prompt { fill: #9BAA5A; font-size: 30px; font-weight: 700; }
+    .cmd { fill: #c9d1d9; font-size: 30px; }
+    .body { fill: #C5C8A8; font-size: 30px; }
+    .dim { fill: #7F8752; font-size: 30px; }
     .cursor { fill: #9BAA5A; }
   </style>
 
