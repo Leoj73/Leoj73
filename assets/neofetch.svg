@@ -99,18 +99,14 @@
     <text x="35" y="570" class="body">🇧🇷 Sou estudante de Redes de Computadores, desenvolvendo minhas habilidades</text>
     <text x="35" y="594" class="body">   em redes, programação, sistemas Linux, cibersegurança e desenvolvimento web.</text>
 
-    <!-- Contact -->
-    <text x="35" y="645" class="prompt">Leoj73@github:~$</text>
-    <text x="220" y="645" class="cmd">cat contact.txt</text>
-    <text x="35" y="678" class="body">LinkedIn → linkedin.com/in/leonardo-josé-b26778430/</text>
 
     <!-- Status -->
-    <text x="35" y="718" class="prompt">Leoj73@github:~$</text>
-    <text x="220" y="718" class="cmd">echo $STATUS</text>
-    <text x="420" y="718" class="body">Learning. Building. Breaking things. Fixing them. 🐧</text>
+    <text x="35" y="650" class="prompt">Leoj73@github:~$</text>
+    <text x="220" y="650" class="cmd">echo $STATUS</text>
+    <text x="420" y="650" class="body">Learning. Building. Breaking things. Fixing them. 🐧</text>
 
     <!-- Blinking cursor -->
-    <rect x="1040" y="701" width="10" height="20" class="cursor">
+    <rect x="1040" y="633" width="10" height="20" class="cursor">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
   </g>
