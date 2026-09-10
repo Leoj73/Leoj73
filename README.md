@@ -1,16 +1,15 @@
 ```text
-██╗     ███████╗ ██████╗      ██╗    leoj@github
+██╗     ███████╗ ██████╗      ██╗    Leoj73@github
 ██║     ██╔════╝██╔═══██╗     ██║    -----------
 ██║     █████╗  ██║   ██║     ██║    Name: Leonardo José
 ██║     ██╔══╝  ██║   ██║██   ██║    Role: Computer Networks Student
 ███████╗███████╗╚██████╔╝╚█████╔╝    OS: Linux / Windows
 ╚══════╝╚══════╝ ╚═════╝  ╚════╝     Focus: Networking & Cybersecurity
-                                        Languages: Python, C, C++, Java
-                                        Web: JavaScript, HTML, CSS
-                                        Shell: Linux
-                                        Learning: Networks & Security
-                                        Location: Brazil 🇧🇷
-                                        Languages: Portuguese / English
+                                     Languages: Python, C, C++, Java
+                                     Web: JavaScript, HTML, CSS
+                                     Shell: Linux
+                                     Learning: Networks & Security
+                                     Languages: Portuguese / English
 ```
 
 ```bash
@@ -22,8 +21,7 @@ leoj@github:~$ whoami
    networking, programming, Linux systems,
    cybersecurity, and web development.
 
-
-leoj@github:~$ quem_sou_eu
+leoj@github:~$ whoami
 
 👋 Olá, eu sou o Leo!
 
@@ -32,37 +30,13 @@ leoj@github:~$ quem_sou_eu
    programação, sistemas Linux, cibersegurança
    e desenvolvimento web.
 
-
-leoj@github:~$ tree ~/skills
-
-skills
-├── networking
-│   ├── TCP-IP
-│   ├── Linux
-│   ├── Cybersecurity
-│   └── Windows
-│
-├── programming
-│   ├── Python
-│   ├── C
-│   ├── C++
-│   └── Java
-│
-└── web
-    ├── HTML
-    ├── CSS
-    └── JavaScript
-
-
-leoj@github:~$ cat contact.txt
+Leoj73@github:~$ cat contact.txt
 
 LinkedIn → linkedin.com/in/leonardo-josé-b26778430/
 
-
-leoj@github:~$ echo $STATUS
+Leoj73@github:~$ echo $STATUS
 
 Learning. Building. Breaking things. Fixing them. 🐧
-
 
 leoj@github:~$ █
 ```
