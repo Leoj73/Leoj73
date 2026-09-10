@@ -40,3 +40,4 @@ Learning. Building. Breaking things. Fixing them. 🐧
 
 Leoj73@github:~$ █
 ```
+<img src="./assets/neofetch.svg" width="100%" />
