@@ -1,16 +1,19 @@
+```text
 ██╗     ███████╗ ██████╗      ██╗    leoj@github
 ██║     ██╔════╝██╔═══██╗     ██║    -----------
 ██║     █████╗  ██║   ██║     ██║    Name: Leonardo José
 ██║     ██╔══╝  ██║   ██║██   ██║    Role: Computer Networks Student
 ███████╗███████╗╚██████╔╝╚█████╔╝    OS: Linux / Windows
 ╚══════╝╚══════╝ ╚═════╝  ╚════╝     Focus: Networking & Cybersecurity
-                                     Languages: Python, C, C++, Java
-                                     Web: JavaScript, HTML, CSS
-                                     Shell: Linux
-                                     Learning: Networks & Security
-                                     Location: Brazil 🇧🇷
-                                     Languages: Portuguese / English
+                                        Languages: Python, C, C++, Java
+                                        Web: JavaScript, HTML, CSS
+                                        Shell: Linux
+                                        Learning: Networks & Security
+                                        Location: Brazil 🇧🇷
+                                        Languages: Portuguese / English
+```
 
+```bash
 leoj@github:~$ whoami
 
 👋 Hey, I'm Leo!
@@ -34,6 +37,7 @@ leoj@github:~$ tree ~/skills
 
 skills
 ├── networking
+│   ├── TCP-IP
 │   ├── Linux
 │   ├── Cybersecurity
 │   └── Windows
@@ -54,8 +58,11 @@ leoj@github:~$ cat contact.txt
 
 LinkedIn → linkedin.com/in/leonardo-josé-b26778430/
 
+
 leoj@github:~$ echo $STATUS
 
 Learning. Building. Breaking things. Fixing them. 🐧
 
+
 leoj@github:~$ █
+```
