@@ -13,7 +13,7 @@
 ```
 
 ```bash
-leoj@github:~$ whoami
+Leoj73@github:~$ whoami
 
 👋 Hey, I'm Leo!
 
@@ -21,7 +21,7 @@ leoj@github:~$ whoami
    networking, programming, Linux systems,
    cybersecurity, and web development.
 
-leoj@github:~$ whoami
+Leoj73@github:~$ whoami
 
 👋 Olá, eu sou o Leo!
 
@@ -38,5 +38,5 @@ Leoj73@github:~$ echo $STATUS
 
 Learning. Building. Breaking things. Fixing them. 🐧
 
-leoj@github:~$ █
+Leoj73@github:~$ █
 ```
