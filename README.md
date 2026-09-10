@@ -3,7 +3,6 @@
 
   <br>
   
-  <a href="https://www.linkedin.com/in/leonardo-jos%C3%A9-b26778430/">
-    LinkedIn → Leonardo José
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/leonardo-jos%C3%A9-b26778430/">
+  <img src="./assets/linkedin-terminal.svg" alt="LinkedIn terminal button" />
+</a>
