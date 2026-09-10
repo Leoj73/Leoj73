@@ -1,42 +1,92 @@
-```text
-██╗     ███████╗ ██████╗      ██╗    Leoj73@github
-██║     ██╔════╝██╔═══██╗     ██║    -----------
-██║     █████╗  ██║   ██║     ██║    Name: Leonardo José
-██║     ██╔══╝  ██║   ██║██   ██║    Role: Computer Networks Student
-███████╗███████╗╚██████╔╝╚█████╔╝    OS: Linux / Windows
-╚══════╝╚══════╝ ╚═════╝  ╚════╝     Focus: Networking & Cybersecurity
-                                     Languages: Python, C, C++, Java
-                                     Web: JavaScript, HTML, CSS
-                                     Shell: Linux
-                                     Learning: Networks & Security
-                                     Languages: Portuguese / English
-```
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="760" viewBox="0 0 1180 760">
+  <rect width="100%" height="100%" rx="16" fill="#0d1117"/>
 
-```bash
-Leoj73@github:~$ whoami
+  <style>
+    .mono { font-family: "Courier New", "DejaVu Sans Mono", monospace; }
+    .ascii { fill: #39FF14; font-size: 17px; font-weight: 700; }
+    .title { fill: #7CFC00; font-size: 18px; font-weight: 700; }
+    .label { fill: #39FF14; font-size: 16px; font-weight: 700; }
+    .value { fill: #d1f7c4; font-size: 16px; }
+    .prompt { fill: #39FF14; font-size: 16px; font-weight: 700; }
+    .cmd { fill: #c9d1d9; font-size: 16px; }
+    .body { fill: #d1f7c4; font-size: 16px; }
+    .dim { fill: #6f9f77; font-size: 16px; }
+    .cursor { fill: #39FF14; }
+  </style>
 
-👋 Hey, I'm Leo!
+  <!-- LEOJ ASCII -->
+  <g class="mono ascii">
+    <text x="35" y="52">██╗     ███████╗ ██████╗      ██╗</text>
+    <text x="35" y="76">██║     ██╔════╝██╔═══██╗     ██║</text>
+    <text x="35" y="100">██║     █████╗  ██║   ██║     ██║</text>
+    <text x="35" y="124">██║     ██╔══╝  ██║   ██║██   ██║</text>
+    <text x="35" y="148">███████╗███████╗╚██████╔╝╚█████╔╝</text>
+    <text x="35" y="172">╚══════╝╚══════╝ ╚═════╝  ╚════╝</text>
+  </g>
 
-🇺🇸 Computer Networks student building my skills in
-   networking, programming, Linux systems,
-   cybersecurity, and web development.
+  <!-- Neofetch info -->
+  <g class="mono">
+    <text x="570" y="48" class="title">Leoj73@github</text>
+    <text x="570" y="72" class="dim">-------------</text>
 
-Leoj73@github:~$ whoami
+    <text x="570" y="102" class="label">Name:</text>
+    <text x="700" y="102" class="value">Leonardo José</text>
 
-👋 Olá, eu sou o Leo!
+    <text x="570" y="128" class="label">Role:</text>
+    <text x="700" y="128" class="value">Computer Networks Student</text>
 
-🇧🇷 Sou estudante de Redes de Computadores,
-   desenvolvendo minhas habilidades em redes,
-   programação, sistemas Linux, cibersegurança
-   e desenvolvimento web.
+    <text x="570" y="154" class="label">OS:</text>
+    <text x="700" y="154" class="value">Linux / Windows</text>
 
-Leoj73@github:~$ cat contact.txt
+    <text x="570" y="180" class="label">Focus:</text>
+    <text x="700" y="180" class="value">Networking &amp; Cybersecurity</text>
 
-LinkedIn → linkedin.com/in/leonardo-josé-b26778430/
+    <text x="570" y="206" class="label">Languages:</text>
+    <text x="700" y="206" class="value">Python, C, C++, Java</text>
 
-Leoj73@github:~$ echo $STATUS
+    <text x="570" y="232" class="label">Web:</text>
+    <text x="700" y="232" class="value">JavaScript, HTML, CSS</text>
 
-Learning. Building. Breaking things. Fixing them. 🐧
+    <text x="570" y="258" class="label">Shell:</text>
+    <text x="700" y="258" class="value">Linux</text>
 
-Leoj73@github:~$ █
-```
+    <text x="570" y="284" class="label">Learning:</text>
+    <text x="700" y="284" class="value">Networks &amp; Security</text>
+
+    <text x="570" y="310" class="label">Languages:</text>
+    <text x="700" y="310" class="value">Portuguese / English</text>
+  </g>
+
+  <!-- English terminal -->
+  <g class="mono">
+    <text x="35" y="365" class="prompt">Leoj73@github:~$</text>
+    <text x="220" y="365" class="cmd">whoami</text>
+
+    <text x="35" y="400" class="body">👋 Hey, I'm Leo!</text>
+    <text x="35" y="430" class="body">🇺🇸 Computer Networks student building my skills in networking,</text>
+    <text x="35" y="454" class="body">   programming, Linux systems, cybersecurity, and web development.</text>
+
+    <!-- Portuguese terminal -->
+    <text x="35" y="505" class="prompt">Leoj73@github:~$</text>
+    <text x="220" y="505" class="cmd">quem_sou_eu</text>
+
+    <text x="35" y="540" class="body">👋 Olá, eu sou o Leo!</text>
+    <text x="35" y="570" class="body">🇧🇷 Sou estudante de Redes de Computadores, desenvolvendo minhas habilidades</text>
+    <text x="35" y="594" class="body">   em redes, programação, sistemas Linux, cibersegurança e desenvolvimento web.</text>
+
+    <!-- Contact -->
+    <text x="35" y="645" class="prompt">Leoj73@github:~$</text>
+    <text x="220" y="645" class="cmd">cat contact.txt</text>
+    <text x="35" y="678" class="body">LinkedIn → linkedin.com/in/leonardo-josé-b26778430/</text>
+
+    <!-- Status -->
+    <text x="35" y="718" class="prompt">Leoj73@github:~$</text>
+    <text x="220" y="718" class="cmd">echo $STATUS</text>
+    <text x="420" y="718" class="body">Learning. Building. Breaking things. Fixing them. 🐧</text>
+
+    <!-- Blinking cursor -->
+    <rect x="1040" y="701" width="10" height="20" class="cursor">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
